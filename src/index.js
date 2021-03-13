@@ -1,1 +1,3 @@
-console.log("Test")
+import pageLoad from './pageLoad'
+
+pageLoad()

@@ -1,0 +1,14 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headline {
+  font-size: 3em; 
+}
+
+.descript {
+  font-size: 1.5em;
+  width: 50%
+}
