@@ -6,9 +6,10 @@
 
 .headline {
   font-size: 3em; 
+  text-align: center;
 }
 
 .descript {
   font-size: 1.5em;
-  width: 50%
+  text-align: center;
 }
