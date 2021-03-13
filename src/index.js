@@ -1,3 +1,5 @@
 import pageLoad from './pageLoad'
+import loadContact from './tabContent'
 
-pageLoad()
+
+document.querySelector("#Contact").addEventListener("click", loadContact)
