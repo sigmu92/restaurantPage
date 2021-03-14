@@ -59,6 +59,7 @@ body {
   font-weight: 300;
   line-height: 1.5;
   max-width: 60rem;
+  min-width: 1vw;
   margin: 0 auto;
   font-size: 112%;
   display: flex;

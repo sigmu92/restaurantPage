@@ -1,6 +1,6 @@
 function pageLoad() {
-
   const content = document.querySelector('#mainContent')
+  
 
   const logo = document.createElement('img')
   logo.src = "Restaurant_Logo.png"
@@ -17,4 +17,4 @@ function pageLoad() {
   content.appendChild(text);
 }
 
-export default pageLoad()
+export {pageLoad}
